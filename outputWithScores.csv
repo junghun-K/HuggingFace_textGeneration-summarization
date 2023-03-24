@@ -1,0 +1,615 @@
+﻿prompt,greedy_search,beam_search,top_k,top_p,greedy_bert_score,beam_bert_score,top_k_bert_score,top_p_bert_score,greedy_bleu,beam_bleu,top_k_bleu,top_p_bleu
+"Hannah: Hey, do you have Betty's number?
+Amanda: Lemme check
+Hannah: <file_gif>
+Amanda: Sorry, can't find it.
+Amanda: Ask Larry
+Amanda: He called her last time we were at the park together
+Hannah: I don't know him well
+Hannah: <file_gif>
+Amanda: Don't be shy, he's very nice
+Hannah: If you say so..
+Hannah: I'd rather you texted him
+Amanda: Just text him 🙂
+Hannah: Urgh.. Alright
+Hannah: Bye
+Amanda: Bye bye",Hannah is looking for Betty's number. Larry called her last time they were at the park together. Hannah doesn't know Larry very well. Amanda suggests Hannah to text him. Hannah agrees to text Larry instead.   ...  .  ,Hannah is looking for Betty's number. Larry called her last time they were at the park together. Hannah doesn't know him very well. Amanda suggests Hannah to text him.   She will talk to him later. She is going to see Larry. He is a nice guy.,Hannah is looking for Betty's number. Larry called Betty last time they were at the park together. Hannah doesn't know Larry very well. Amanda suggests Hannah to text Larry. Hannah agrees to text him.   ...   - Hannah and Amanda are good friends.,"Hannah is looking for Betty's number. Larry called Betty the last time they were at the park together. Hannah doesn't know him well. Amanda suggests Hannah to text Larry. Hannah agrees to text him instead.   ...   ""Bye"" ",0.8867388963699341,0.8913558721542358,0.8816162943840027,0.8842294216156006,0.0,0.0,0.0,0.0
+"Eric: MACHINE!
+Rob: That's so gr8!
+Eric: I know! And shows how Americans see Russian ;)
+Rob: And it's really funny!
+Eric: I know! I especially like the train part!
+Rob: Hahaha! No one talks to the machine like that!
+Eric: Is this his only stand-up?
+Rob: Idk. I'll check.
+Eric: Sure.
+Rob: Turns out no! There are some of his stand-ups on youtube.
+Eric: Gr8! I'll watch them now!
+Rob: Me too!
+Eric: MACHINE!
+Rob: MACHINE!
+Eric: TTYL?
+Rob: Sure :)",Eric and Rob like Russian comedian's stand-up. They will watch some of his stand-ups on youtube now. They like his jokes about machines and trains.    Rob and Eric will talk to each other on Skype soon. They are in touch. ,Eric and Rob like the Russian comedian who talks to the machine. There are some of his stand-ups on youtube. Eric will watch them with Rob now. They will talk to machines. Rob and Eric love the comedian.  They are going to watch some more together.,"Eric and Rob like the Russian comedian who talks to the machine in his stand-up. Eric and Rob will watch some of his videos on youtube now.   They like the train part of the joke very much, but not the whole thing as it's not very funny.",Eric and Rob like Russian comedian's stand-up. There are some of his stand-ups on youtube. Eric and Rob are going to watch some of them now. They like the train part of the comedy very much and find the joke about talking to a machine funny.,0.9026031494140625,0.9053404927253723,0.8934176564216614,0.9031275510787964,0.0,0.08102230734381086,0.0,0.14288752829815848
+"Lenny: Babe, can you help me with something?
+Bob: Sure, what's up?
+Lenny: Which one should I pick?
+Bob: Send me photos
+Lenny:  <file_photo>
+Lenny:  <file_photo>
+Lenny:  <file_photo>
+Bob: I like the first ones best
+Lenny: But I already have purple trousers. Does it make sense to have two pairs?
+Bob: I have four black pairs :D :D
+Lenny: yeah, but shouldn't I pick a different color?
+Bob: what matters is what you'll give you the most outfit options
+Lenny: So I guess I'll buy the first or the third pair then
+Bob: Pick the best quality then
+Lenny: ur right, thx
+Bob: no prob :)",Lenny will buy the first or the third pair of purple trousers for Bob. Bob has four black trousers. Lenny will choose the one with the most outfit options for Bob and he will pick the best quality one.      . ,Lenny will buy the first or the third pair of purple trousers. Bob has four black trousers and advises Lenny to choose the one that will give him the most outfit options. He advises her to pick the best quality and to buy it in a different color. ,"Bob advises Lenny to buy purple trousers. Lenny will buy the first or the third pair. Bob has four black trousers, so Lenny should choose the one with the most outfit options. Bob will help Lenny pick the one of the best quality. ",Bob advises Lenny on which pair of purple trousers to buy. Lenny will buy the first or the third pair of the purple trousers. Bob has four black trousers.  He wants Lenny to buy the best quality one.      ,0.8888339400291443,0.902550220489502,0.9046984910964966,0.9049191474914551,0.0,0.0,0.0,0.0984148644912228
+"Will: hey babe, what do you want for dinner tonight?
+Emma:  gah, don't even worry about it tonight
+Will: what do you mean? everything ok?
+Emma: not really, but it's ok, don't worry about cooking though, I'm not hungry
+Will: Well what time will you be home?
+Emma: soon, hopefully
+Will: you sure? Maybe you want me to pick you up?
+Emma: no no it's alright. I'll be home soon, i'll tell you when I get home. 
+Will: Alright, love you. 
+Emma: love you too. ",Emma doesn't want to cook dinner tonight. She will tell Will when she gets home. Will will pick her up when he's back home.   He will love her. He and Emma will see each other later tonight. They love each other. ,"Emma will be home soon. She will tell Will what she wants for dinner when she gets home. Will will pick her up when he gets back. They will have dinner together tonight. Emma is not hungry, so she won't be cooking.  She doesn't want Will to cook.","Emma will be home soon and she will tell Will what she wants for dinner tonight. Will will pick her up when he gets home.   He doesn't need to worry about cooking, because she's not hungry. They love each other very much. ","Emma will be home soon and will let Will know what she wants for dinner tonight. She doesn't want to cook, because she's not hungry. Will will pick her up when he gets home, as she doesn't feel like going out tonight. ",0.8735241293907166,0.890298068523407,0.8955503702163696,0.9014766216278076,0.0,0.07167282492261375,0.14882455879385484,0.15231420173290325
+"Ollie: Hi , are you in Warsaw
+Jane: yes, just back! Btw are you free for diner the 19th?
+Ollie: nope!
+Jane: and the  18th?
+Ollie: nope, we have this party and you must be there, remember?
+Jane: oh right! i lost my calendar..  thanks for reminding me
+Ollie: we have lunch this week?
+Jane: with pleasure!
+Ollie: friday?
+Jane: ok
+Jane: what do you mean "" we don't have any more whisky!"" lol..
+Ollie: what!!!
+Jane: you just call me and the all thing i heard was that sentence about whisky... what's wrong with you?
+Ollie: oh oh... very strange! i have to be carefull may be there is some spy in my mobile! lol
+Jane: dont' worry, we'll check on friday.
+Ollie: don't forget to bring some sun with you
+Jane: I can't wait to be in Morocco..
+Ollie: enjoy and see you friday
+Jane: sorry Ollie, i'm very busy, i won't have time for lunch  tomorrow, but may be at 6pm after my courses?this trip to Morocco was so nice, but time consuming!
+Ollie: ok for tea!
+Jane: I'm on my way..
+Ollie: tea is ready, did you bring the pastries?
+Jane: I already ate them all... see you in a minute
+Ollie: ok",Jane is in Warsaw. Ollie has a party on the 18th. They will meet for lunch on Friday at 6 pm. Jane will bring the pastries she brought to the party. Jane is on her way back from Morocco. She will bring some sun and bring some whisky.,"Jane is in Warsaw. Ollie has a party on the 18th. They will meet for lunch on Friday at 6 pm. Jane is on her way. She will bring the pastries that she brought to the party, which she had already eaten. ",Jane is in Warsaw. Ollie has a party on the 18th. They will meet for lunch on Friday at 6 pm. Jane will bring the pastries she brought to the party. She will also bring some suncream. She is on her way. ,Jane is in Warsaw. Ollie has a party on the 18th. They will meet for lunch on Friday. Jane will be back from Morocco in a minute. She will bring pastries and bring some sun for Ollies tea. She has already eaten the pastries.,0.8977429270744324,0.9008492231369019,0.8939907550811768,0.8874372243881226,0.22306552953519643,0.22050586719389628,0.22630057911493692,0.18745601007594367
+"Benjamin: Hey guys, what are we doing with the keys today?
+Hilary: I've got them. Whoever wants them can meet me at lunchtime or after
+Elliot: I'm ok. We're meeting for the drinks in the evening anyway and I guess we'll be going back to the apartment together?
+Hilary: Yeah, I guess so
+Daniel: I'm with Hilary atm and won't let go of her for the rest of the day, so any option you guys choose is good for me
+Benjamin: Hmm I might actually pass by at lunchtime, take the keys and go take a nap. I'm sooo tired after yesterday
+Hilary: Sounds good. We'll be having lunch with some French people (the ones who work on the history of food in colonial Mexico - I already see you yawning your head off)
+Benjamin: YAAAAWN 🙊 Where and where are you meeting?
+Hilary: So I'm meeting them at the entrance to the conference hall at 2 pm and then we'll head to this place called La Cantina. Italian cuisine, which is quite funny, but that's what they've chosen
+Benjamin: Interesting 😱 To be honest, Hilary, I almost feel like changing my mind. Wanting to take this nap might end up costing me to dear
+Hilary: Oh come on 😂
+Benjamin: All these terrible obstacles on mu way to bed might just prove to much to take
+Hilary: We'll try to avoid talking about their subject of research. Oh wait, no, I'm actually meeting them because I wanted to chat about their research lol
+Elliot: 🙉
+Hilary: Do join us, we're going to have fun. And then you'll take the keys and take this most deserved of naps
+Elliot: Sounds like a plan 😂
+Hilary: 😎
+Elliot: See you at 2 then xx","Benjamin, Elliot and Daniel are going to meet Hilary at the entrance to the conference hall at 2 pm to have lunch with some French people who work on the history of food in colonial Mexico. They will go to La Cantina to eat Italian cuisine. Hilary wants Benjamin to join them and take the keys.","Benjamin, Elliot and Daniel are going to meet Hilary at the entrance to the conference hall at 2 pm to have lunch with some French people who work on the history of food in colonial Mexico. They will go to La Cantina to eat Italian cuisine. Benjamin will join them and take the keys.",Hilary has the keys to Benjamin's apartment. She is meeting some French people at the entrance to the conference hall at 2 p.m. to have lunch with them and discuss their research. Elliot will join them. Benjamin will pass by at lunchtime and take the keys.,Hilary has the keys to Benjamin's apartment. She will meet some French people who work on the history of food in colonial Mexico at the entrance to the conference hall at 2 pm and they will go to La Cantina for lunch. Elliot and Daniel are meeting for drinks in the evening. Benjamin will join them.,0.9136695265769958,0.9130825996398926,0.9171234965324402,0.9302635192871094,0.26675945012732133,0.26295886412552877,0.2917194052159984,0.3408051294940755
+"Max: Know any good sites to buy clothes from?
+Payton: Sure :) <file_other> <file_other> <file_other> <file_other> <file_other> <file_other> <file_other>
+Max: That's a lot of them!
+Payton: Yeah, but they have different things so I usually buy things from 2 or 3 of them.
+Max: I'll check them out. Thanks. 
+Payton: No problem :)
+Max: How about u?
+Payton: What about me?
+Max: Do u like shopping?
+Payton: Yes and no.
+Max: How come?
+Payton: I like browsing, trying on, looking in the mirror and seeing how I look, but not always buying.
+Max: Y not?
+Payton: Isn't it obvious? ;)
+Max: Sry ;)
+Payton: If I bought everything I liked, I'd have nothing left to live on ;)
+Max: Same here, but probably different category ;)
+Payton: Lol
+Max: So what do u usually buy?
+Payton: Well, I have 2 things I must struggle to resist!
+Max: Which are?
+Payton: Clothes, ofc ;)
+Max: Right. And the second one?
+Payton: Books. I absolutely love reading!
+Max: Gr8! What books do u read?
+Payton: Everything I can get my hands on :)
+Max: Srsly?
+Payton: Yup :)","Max will check out some good sites to buy clothes from. He likes browsing, trying on, looking in the mirror and seeing how he looks, but not always buying. For Payton, she prefers to browse, try on, and look in a mirror. She also likes to read.","Max is looking for a website where he can buy clothes and books. He will check out a lot of them. Neither he nor Payton like shopping, but they both enjoy browsing and looking in the mirror before buying something they find interesting and useful, even if they don't buy everything they like.","Max will check out some good sites to buy clothes from. He likes browsing, trying on, looking in the mirror and seeing how he looks, but not always buying. For Payton, she prefers to browse, try on, and look in a mirror. She also likes to read.","Max will check out some of the sites that Payton recommends to him. He likes browsing, trying on, looking in the mirror and seeing how he looks, but not always buying. He prefers to buy clothes and books, which he struggles to resist.  ",0.9111660718917847,0.8915375471115112,0.9111660718917847,0.9173721671104431,0.0,0.0,0.0,0.0
+"Rita: I'm so bloody tired. Falling asleep at work. :-(
+Tina: I know what you mean.
+Tina: I keep on nodding off at my keyboard hoping that the boss doesn't notice..
+Rita: The time just keeps on dragging on and on and on.... 
+Rita: I keep on looking at the clock and there's still 4 hours of this drudgery to go.
+Tina: Times like these I really hate my work.
+Rita: I'm really not cut out for this level of boredom.
+Tina: Neither am I.","Rita and Tina are bored at work. They both hate their jobs. They are not cut out for this level of boredom. They don't want to go back to work anymore. They feel the time is dragging on and on, and there's still 4 hours of work to go.",Rita and Tina are bored at work. The work drags on and on. Tina keeps on nodding off at her keyboard hoping that the boss doesn't notice. Rita is not cut out for this level of boredom. Neither is Tina.   They don't want to work there anymore.,"Rita and Tina are bored at work. They both hate their jobs. They hope that the boss doesn't notice them falling asleep at the keyboard. They are not cut out for this level of boredom, neither do they want to work there anymore.  ",Rita and Tina are bored at work. They are both tired and bored with the drudgery of their job. They both agree that they are not cut out for this level of boredom and they hate their jobs.      .  ,0.9140963554382324,0.8776659369468689,0.8900756239891052,0.8893711566925049,0.12952741640890278,0.11133996756497443,0.11974032927121092,0.14160105937647138
+"Beatrice: I am in town, shopping. They have nice scarfs in the shop next to the church. Do you want one?
+Leo: No, thanks
+Beatrice: But you don't have a scarf.
+Leo: Because I don't need it.
+Beatrice: Last winter you had a cold all the time. A scarf could help.
+Leo: I don't like them.
+Beatrice: Actually, I don't care. You will get a scarf.
+Leo: How understanding of you!
+Beatrice: You were complaining the whole winter that you're going to die. I've had enough.
+Leo: Eh.","Beatrice will buy a scarf for Leo because he had a cold all the time last winter. He doesn't want one, because he doesn't like scarves. He was complaining the whole winter that he was going to die, so Beatrice has had enough.","Beatrice will buy a scarf for Leo because he had a cold all the time last winter. He doesn't like scarves, but she will get him one anyway. She was complaining the whole winter that she's going to die, so Beatrice has had enough.",Beatrice is in town and finds a scarf in the shop next to the church. Leo doesn't want it because he doesn't like scarves. He had a cold last winter. Beatrice doesn't care. She will get him a scarf anyway. ,"Beatrice will buy a scarf for Leo because he had a cold last winter. He doesn't want one as he doesn't like scarves. He complained the whole winter that he was going to die, so Beatrice has had enough and will get him a scarf.",0.9002400040626526,0.904530942440033,0.915283203125,0.9066154360771179,0.10369816700638208,0.0,0.1320722235973145,0.12635080075470545
+"Ivan: hey eric
+Eric: yeah man
+Ivan: so youre coming to the wedding
+Eric: your brother's
+Ivan: yea
+Eric: i dont know mannn
+Ivan: YOU DONT KNOW??
+Eric: i just have a lot to do at home, plus i dont know if my parents would let me
+Ivan: ill take care of your parents
+Eric: youre telling me you have the guts to talk to them XD
+Ivan: thats my problem
+Eric: okay man, if you say so
+Ivan: yea just be there 
+Eric: alright",Eric doesn't know if he's coming to Ivan's brother's wedding. Ivan will take care of Eric's parents. Eric will go if Ivan tells him to.   He will talk to his parents if Ivan wants him to do so.  Eric will come. ,Eric doesn't know if he can come to Ivan's brother's wedding because he has a lot to do at home and his parents wouldn't let him. Ivan will take care of Eric's parents and will talk to them. Eric will come if Ivan says so. ,Eric doesn't know if he can come to Ivan's brother's wedding because he has a lot to do at home. Ivan will take care of Eric's parents. Eric will come to the wedding if Ivan tells him to.   He will talk to his parents. ,Eric doesn't know if he's coming to Ivan's brother's wedding. Eric has a lot to do at home and he's not sure if his parents would let him. Ivan will take care of Eric's parents. Eric will come to the wedding. ,0.9196330904960632,0.9306573271751404,0.9238448739051819,0.9230040311813354,0.21672328066436025,0.20662389476933615,0.14805679807551378,0.18604441256798246
+"Wanda: Let's make a party!
+Gina: Why?
+Wanda: beacuse. I want some fun!
+Gina: ok, what do u need?
+Wanda: 1st I need too make a list
+Gina: noted and then?
+Wanda: well, could u take yours father car and go do groceries with me?
+Gina: don't know if he'll agree
+Wanda: I know, but u can ask :)
+Gina: I'll try but theres no promisess
+Wanda: I know, u r the best!
+Gina: When u wanna go
+Wanda: Friday?
+Gina: ok, I'll ask","Wanda and Gina are planning a party. Wanda needs to make a list first. Gina will take her father's car and go do groceries with Wanda on Friday. Gina doesn't know if her father will agree to go with her, but she can ask him.","Wanda and Gina are planning a party. Wanda needs to make a list first. Gina will take her father's car and go do groceries with her on Friday. She will ask her dad if he'll go with them, but it's not guaranteed. ",Wanda and Gina are planning a party for Friday. Wanda needs to make a list first. Gina will take her father's car and go do groceries with Wanda. Gina is not sure if he will agree to go with her.    ,"Wanda wants to make a party. She will make a list and then ask Gina to take her father's car and go do groceries with her on Friday. Gina will ask her father if he'll go with them, but she doesn't know if he will agree.",0.9156466722488403,0.920524001121521,0.9178407788276672,0.9276930093765259,0.1605459569752503,0.17570528340772593,0.18586302203348085,0.2056188572728757
+"Martin: I won two cinema tickets!
+Aggie: oh cool, how come?
+Martin: online. on fb, the movie mag organized it
+Aggie: so what did you do
+Martin: just write a short review and that's it
+Aggie: well done :) so what and when. and where?
+Martin: the new film with Redford
+Aggie: i guess i heard sth
+Martin: it's pretty cool i heard. till the end of the week
+Aggie: sounds good. we'll find time XD",Martin won two cinema tickets for the new film with Redford online. He will see it with Aggie at the cinema at the end of the week. He has to write a short review on the movie mag website.    He will do that. ,"Martin won two cinema tickets online. He had to write a short review and that's it. Martin and Aggie will see the new film with Redford till the end of the week. They will find time to go to the cinema together. The movie is called ""The Godfather"".",Martin won two cinema tickets for the new film with Redford online. He has to write a short review for the movie mag. Martin and Aggie will go to the cinema to see the film at the end of the week. They will meet at the cinema.,Martin won two cinema tickets for the new film with Redford online. He has to write a short review and that's it. Martin and Aggie will go to the cinema together at the end of the week to see the new movie with Redfern.,0.9140035510063171,0.9174206852912903,0.9213500618934631,0.9291425943374634,0.153876603091887,0.13836345500899627,0.1474496993451218,0.1874037429552703
+"Charlee: I'm in class. Theatre in Portuguese lol
+Curtis: Realllly?
+Charlee: Yes. One of my subjects at the university that I attend is portuguese theatre. We are preparing a performance
+Curtis: What performance is this? Are you devising it?
+Charlee: A polish one translated into portuguese
+Curtis: Thats quite cool. Who is the writer?
+Charlee: Mrożek",Charlee is in a theatre class at the university. She is preparing a performance in Portuguese. The writer of the play is Mrożek. Charlee is devising a Polish play translated into Portuguese. She will write the script for it. ,"Charlee is in a theatre class at the university. They are preparing a performance of a Polish play translated into Portuguese. The writer of the Polish version is Mrożek. Charlee doesn't know who the actor is, but he's a good actor.","Charlee is preparing a performance in Portuguese for her university class. The writer of the play is Mrożek. Charlee is devising a Polish play translated into Portuguese. She is excited about it.    The performance is called ""Theatre in Portuguese"".",Charlee is in a theatre class at the university. She is preparing a performance in Portuguese. The writer of the play is Mrożek. Charlee is devising a Polish play translated into Portuguese. She will write the script for it. ,0.9215790629386902,0.9050986766815186,0.9063347578048706,0.9215790629386902,0.08621434964845645,0.09470104450212836,0.07732307904627223,0.08621434964845645
+"Mary: Are you going by car or train?
+Tom: Ella rented a car
+Ella: this makes all of this much faster
+Mary: good decision","Ella rented a car to go by car instead of the train. Mary and Tom are happy with the decision. Tom and Ella are going by car, not by train, because it makes the journey faster.    - Mary is happy with this decision.",Ella rented a car to go by car instead of by train. Mary and Tom are happy with the decision. Tom and Ella are going to meet with Mary soon. They will take the car as it's faster than the train and it makes the journey faster.,Ella rented a car to go by car instead of by train as she wants to get there faster. Mary thinks it's a good decision on her part. Tom thinks it was a good idea on Ella's part as it makes the journey faster. ,"Ella is going by car as she rented a car. Tom and Mary congratulate her on this decision.    -      ""This makes all of this much faster"".   Tom and   Mary congratulate Ella on this. ",0.8943997621536255,0.9038991928100586,0.8975871801376343,0.8858311772346497,0.06819851521871377,0.05886250626142405,0.059596152114584695,0.0
+"Luke: are you still looking for someone to join netflix family?
+Paul: yes, 1 person :)
+Luke: i am the one!
+Paul: sure, i will send you the login and password on sunday
+Luke: ok we can talk tomorrow
+Paul: i don't really remember it now
+Luke: send me also the bank account details so I can wire you the money every month. Are you paying for this or someone else?
+Paul: I do, and I keep track of everyone accessing so you should not expect any bans :D
+Luke: easy mate :D you still on holidays with your girl?
+Paul: last dinner :( tomorrow we are out
+Luke: how long have you been there?
+Paul: less than 8 days :/",Luke wants to join Netflix family. Paul will send him the login and password on Sunday. He will also send Luke the bank account details so he can wire Paul the money every month. Paul is on holidays with his girlfriend and they are going out tomorrow. They have been there less than 8 days.,Luke wants to join Netflix family. Paul will send him the login and password on Sunday. He will also send Luke the bank account details so he can wire Paul the money every month. Luke and Paul are going to meet tomorrow to catch up after Paul's last dinner with his girlfriend.,Luke wants to join Netflix family. Paul will send him the login and password on Sunday. He will also send Luke the bank account details so he can wire Paul the money every month. Paul is on holidays with his girlfriend and they have their last dinner tomorrow.,Luke wants to join Netflix family. Paul will send him the login and password on Sunday. He will also send Luke the bank account details so he can wire Paul the money every month. Paul keeps track of everyone accessing Netflix. Paul is on holidays with his girlfriend. They are going out tomorrow.,0.8967698812484741,0.8994747400283813,0.9033082723617554,0.9048473238945007,0.11966751775324048,0.08871418644475827,0.1371661844308428,0.12174947256163497
+"Greg: Hi, honey. I need to stay after hours :-(
+Betsy: Again?
+Greg: I'm sorry!
+Betsy: What about Johnny?
+Greg: Well, could you pick him up? 
+Betsy: What if I can't?
+Greg: Betsy?
+Betsy: What if I can't?
+Greg: Can't you, really?
+Betsy: I can't. Today I need to work long hours as well. Tuesdays are your days in the kindergarten.
+Greg: Talk to you later. I'll see what I can do.
+Betsy: You'd better think of something.
+Greg: Oh. Just stop it now.","Greg needs to stay after hours. He asks Betsy to pick Johnny up, but she can't do it. She needs to work long hours today and on Tuesdays Johnny is in the kindergarten. Greg will see what he can do about it.   ","Greg needs to stay after hours. He asks Betsy to pick Johnny up, but she can't, because she has to work long hours and on Tuesdays Johnny is in the kindergarten. Greg will see what he can do about it. It's not easy for him.","Greg needs to stay after hours. He asks Betsy to pick Johnny up, but she can't do it, because she has to work long hours. Johnny is in the kindergarten on Tuesdays. Greg will see what he can do about it.   ","Greg needs to stay after hours. He asks Betsy to pick Johnny up, but she can't do it. She needs to work long hours today as well. Johnny goes to kindergarten on Tuesdays, so Greg needs to think of something to pick him up.",0.9072575569152832,0.9013996124267578,0.9094809889793396,0.9061418175697327,0.0,0.0,0.0,0.0
+"Ethan: somethin for Scott <file_photo>
+Toby: haha, totally
+Marshall: pretty much sums it up
+Scott: you know you're exactly fuckin the same
+Toby: oh we know honey bunny
+Marshall: we just enjoy making fun of YOU
+Ethan: xD
+Scott: oh fuck y'all
+Toby: <file_gif>",Ethan sends Scott a photo of himself and Marshall. Toby and Marshall are making fun of Scott. Scott is not happy about it.    He thinks Ethan and Marshall make fun of him. He thinks they are all the same person. He doesn't like it.,Ethan shares a photo of Scott with Toby and Marshall. Scott is making fun of them. Ethan and Scott are the same way.  He is not happy about it. He thinks they are all fucks and he is the only one who doesn't like that.,"Ethan, Scott and Marshall are making fun of Scott. Toby and Marshall find it funny. Scott is not happy about it.   He thinks Ethan and Scott are exactly the same person. He doesn't like it. He thinks it's a joke. ","Ethan, Marshall and Toby are making fun of Scott. Scott is not happy with them.    He thinks they are all the same person. He is not a fan of them at all. He thinks that they make fun of him too much. ",0.8949720859527588,0.8976786732673645,0.9164642691612244,0.9201960563659668,0.15702128402250726,0.0,0.1686730079436037,0.11411794310494724
+"Igor: Shit, I've got so much to do at work and I'm so demotivated. 
+John: It's pretty irresponsible to give that much work to someone on their notice period.
+Igor: Yeah, exactly! Should I even care?
+John: It's up to you, but you know what they say...
+Igor: What do you mean?
+John: Well, they say how you end things shows how you really are...
+Igor: And now how you start, right?
+John: Gotcha! 
+Igor: So what shall I do then? 
+John: It's only two weeks left, so grit your teeth and do what you have to do. 
+Igor: Easy to say, hard to perform.
+John: Come on, stop thinking, start doing! 
+Igor: That's so typical of you!  ;)  ",Igor has a lot of work to do at work. He has only two weeks left of his notice period. John advises him to do what he has to do as it's the only way to show how he's really feeling at the end of the work.,Igor has a lot of work to do at work. He has only two weeks left of his notice period. John advises him to focus on his work and not think about other things. It's typical of John to tell Igor how to end things shows how he really is.,Igor has a lot of work to do at work. He has only two weeks left of his notice period. John advises him to do what he has to do as it's the only way to show how he really feels about things and to finish things on a positive note.,Igor has a lot of work to do at work. He has two weeks left of his notice period. John advises him to do what he has to do as it's only two weeks until the end of the notice period and to focus on his work. ,0.9101961851119995,0.8915349245071411,0.9112043976783752,0.9123360514640808,0.21866340640321882,0.13733465907927725,0.21238760174654034,0.2388866231285941
+"Clara: Hi, what you up to?
+Neela: Not much, chilling out.
+Clara: Just rewatching Dear White People on Netflix, love it!😍
+Neela: Oh yeah, heard of it, but not seen it yet? Any good?
+Clara: Well, yes! I just said it was, LOL. It's about a fictional Ivy League University and the students in one House of Residence.
+Neela: Why is it called Dear White People?
+Clara: That's the name of the radio show the main character, Sam, presents on college radio.
+Neela: Yeah, but why is it so good?
+Clara: Well, it's mainly stories from the perspective of black students there, which I find very interesting. The characters are strong and likeable too.
+Neela: I suppose it's rather different from the UK, then?
+Clara: It seems so, as there is a lot more racial awareness and discrimination there than here. It all kicks off when there is a Blackface party held by an elite group of white students, which gets out of hand.
+Neela: How's that?
+Clara: Well, obviously, the black students try to break it up and there's also an incident where one guy, Reggie, gets a loaded gun pointed at him by a campus policeman after he gets into an argument with a white student. It may be at another party, though, I'm not sure of that.
+Neela: Oh, that sounds pretty strong stuff. What else happens?
+Clara: Well, there is a young black guy called Lionel who is coming to terms with being gay and is finding his voice as a journalist. He unearths corruption at the uni and he and Sam also uncover some conspiracy theory stuff about secret societies.
+Neela: Well, I must say, it does sound good, I'll check it out soon!
+Clara: Definitely, there is supposed to be a Series 3 coming up next year, really looking forward to it!
+Neela: Well, thanks Clara, I'm just watching the rest of a movie and I'll try Dear White People.
+Clara: Don't blame me if you get hooked and stay up till 4!
+Neela: See ya, love!
+Clara: Bye!","Clara is rewatching Dear White People on Netflix. Neela hasn't seen it yet. It's about a fictional Ivy League University and the students in one House of Residence. The main character, Sam, presents a radio show on college radio. There is a Blackface party held by an elite group of white students, which gets out of hand. The black students try to break it up and there's an incident where Reggie gets a loaded gun pointed at him by a campus policeman. There's a young black guy called Lionel who is coming to terms with being gay and is finding his voice as a journalist.","Clara is rewatching Dear White People on Netflix. Neela hasn't seen it yet. It's about a fictional Ivy League University and the students in one House of Residence. The main character, Sam, presents a radio show on college radio. There is a Blackface party held by an elite group of white students. Black students try to break it up. One guy, Reggie, gets a loaded gun pointed at him by a campus policeman after he gets into an argument with a white student.","Clara is rewatching Dear White People on Netflix. Neela hasn't seen it yet. It's about a fictional Ivy League University and the students in one House of Residence. The main character, Sam, presents a radio show on college radio. There is a Blackface party held by an elite group of white students. The black students try to break it up. There's a young black guy called Lionel who is coming to terms with being gay. He unearths corruption at the uni and he and Sam uncover some conspiracy theory stuff.","Clara is rewatching Dear White People on Netflix. Neela hasn't seen it yet. It's about a fictional Ivy League University and the students in one House of Residence. The main character, Sam, presents a radio show on college radio. There is a Blackface party held by an elite group of white students. The black students try to break it up. There's also an incident where Reggie gets a loaded gun pointed at him by a campus policeman. ",0.8638768196105957,0.8675808310508728,0.865728497505188,0.8709876537322998,0.04465922625585483,0.05479942208422,0.051460942115635636,0.0599884022611939
+"Ernest: hey Mike, did you park your car on our street?
+Mike: no, took it into garage today
+Ernest: ok good
+Mike: why?
+Ernest: someone just crashed into a red honda looking just like yours
+Mike: lol lucky me",Mike parked his car on Ernest's street today and took it into the garage. Someone crashed into a red Honda looking just like Mike's car and he's lucky to have parked it there. He doesn't want to park his car there anymore.   ,Mike parked his car on Ernest's street today. Someone crashed into a red Honda looking just like Mike's car and he had to take it to the garage instead of parking it on the street as someone had already parked it there.    . Â,"Mike parked his car on Ernest's street today. Someone crashed into his red Honda, so he had to take it to the garage instead.   He is lucky, because someone crashed into a red Honda just like Mike's. He took it into the garage. ",Mike parked his car on Ernest's street today and took it into the garage. Someone crashed into a red Honda looking just like Mike's car on the same street and he's lucky to have parked it there. He's glad that someone crashed into his car. ,0.9167031049728394,0.9076146483421326,0.9122546911239624,0.9162130355834961,0.11437790076957295,0.13487404450357782,0.125959010609916,0.10853414547943056
+"Deirdre: Hi Beth, how are you love?
+Beth: Hi Auntie Deirdre, I'm been meaning to message you, had a favour to ask.
+Deirdre: Wondered if you had any thought about your Mum's 40th, we've got to do something special!
+Beth: How about a girls weekend, just mum, me, you and the girls, Kira will have to come back from Uni, of course.
+Deirdre: Sounds fab! Get your thinking cap on, it's only in 6 weeks! Bet she's dreading it, I remember doing that!
+Beth: Oh yeah, we had a surprise party for you, you nearly had a heart attack! 
+Deirdre: Well, it was a lovely surprise! Gosh, thats nearly 4 years ago now, time flies! What was the favour, darling?
+Beth: Oh, it was just that I fancied trying a bit of work experience in the salon, auntie.
+Deirdre: Well, I am looking for Saturday girls, are you sure about it? you could do well in the exams and go on to college or 6th form.
+Beth: I know, but it's not for me, auntie, I am doing all foundation papers and I'm struggling with those.
+Deirdre: What about a tutor? Kira could help you in the hols.
+Beth: Maybe, but I'd like to try working. I'm 16 soon, I'm old enough.
+Deirdre: I know. Look, pop in tomorrow after school and we'll have a cuppa and a chat.
+Beth: Yes, thanks auntie. I'd really like to try the beauty therapy side.
+Deirdre: Its not for the squeamish, mind. Massage, pedicures, not to mention waxing!
+Beth: Oh yes, I was chatting to a friend about it yesterday!
+Deirdre: Maxine manages the beauty side, you can meet her tomorrow and we'll see how it goes.
+Beth: Yes, I'd really like that. 
+Deirdre: We can try a few hours on a Saturday for a couple of weeks as work experience. I'll give you a tenner or so per session to start off for your lunch, coffee and bus fare etc. If you like, we'll take it from there.
+Beth: OK, I like the sound of it! See you tomorrow Auntie! Love you!
+Deirdre: Bye, lovely girl! Xx",Beth and Deirdre are planning a girls weekend for Beth's mum's 40th birthday in 6 weeks. Beth would like to try working in a beauty salon. Maxine manages the beauty side of the salon. Beth will meet her tomorrow and they will see how it goes. ,"Beth and Deirdre are planning a girls weekend for Beth's mum's 40th birthday in 6 weeks. Beth wants to do a work experience in a beauty salon. Maxine manages the beauty side, Beth will meet her tomorrow and they will see how it goes. ",Beth wants to do a girls weekend for her mum's 40th birthday in 6 weeks. Deirdre suggests a work experience in the salon. Maxine manages the beauty side. Beth will meet her tomorrow and they will see how it goes. Beth is 16 soon and wants to try working in a beauty salon.,Beth and Deirdre are planning a girls weekend for Beth's mum's 40th birthday. Beth wants to work in the salon as a work experience for a few hours on a Saturday for a couple of weeks. Maxine manages the beauty side. Beth will meet her tomorrow and they will see how it goes.,0.905340850353241,0.904770016670227,0.912981390953064,0.9156887531280518,0.0,0.0,0.0,0.1185418301875908
+"Gloria: This exam is a bit of a lottery in fact
+Gloria: You can't really get prepared, it's all about experience
+Emma: But there are some rules and some typical texts right?
+Gloria: You can see some texts from previous years
+Gloria: <file_other>
+Emma: Wow that's very useful
+Emma: I have never seen this site
+Gloria: Yes it's very good
+Gloria: Actually it's good to read all the texts because you will see that some phrases repeat very often
+Emma: How much time do you have for all 4 parts?
+Gloria: 4 hours
+Emma: Is it enough?
+Gloria: Well it has to be
+Gloria: Would be perfect to have 2 more hours... But on the other hand it would be really exhausting
+Emma: 4 hours and no breaks?
+Gloria: No breaks :/ So it's really important to be really focused and try to write as fast as you can
+Gloria: And read it carefully and correct during the last hour
+Emma: I'm going to read everything from that website, it's great",Gloria has 4 hours for all 4 parts of the exam. She sends Emma a link to a website with texts from previous years. Emma is going to read the texts from the website. She's going to take the exam in 4 hours with no breaks. ,Gloria and Emma have 4 hours for all 4 parts of the exam. They have to read all the texts and write as fast as they can during the last hour. Emma will read everything from the website that Gloria has sent her and will do the same. ,Gloria has 4 hours for all 4 parts of the exam. She sends Emma a link to a website where she can see some texts from previous years. Emma is going to read everything from the website and prepare herself for the exam she has to take.,"Gloria has 4 hours for all 4 parts of the exam. It's important to be focused and to write as fast as possible. Emma is going to read everything from the website she found to prepare for the exam, which is useful for her. ",0.9140551686286926,0.8890609741210938,0.9283453226089478,0.9031054377555847,0.1840040987758381,0.0,0.20520135490129188,0.08246811684697279
+"Adam: Have you talked to May?
+Karen: Yes, yesterday, why?
+Adam: I just talked to her and I must admit I worry about her
+Karen: Me too, I suggested she should see a specialist, but she wasn't very happy about it
+Adam: No wonder...
+Karen: I know, but I think this is serious. She's saying she's depressed, like everyone around, but in her case it may be true
+Adam: She was telling me she doesn't feel like doing anything, she's bored all the time, she never feels happy. It sounds like a real, typical depression
+Adam: She also told me that she has trouble sleeping. I asked her to go out for a beer or anything basically, but she doesn't want to leave the flat
+Karen: Oh my, it sounds really serious. I don't what to tell you
+Adam: I was wondering how I can help her
+Karen: Honestly I don't know if we can help her, Adam. I suggested a specialist because these are very sensitive issues and I'm afraid we may unintentionally make it worse
+Adam: Yes, but she doesn't want to see a specialist. Basically, she doesn't want to see anyone
+Karen: Hm... I don't know... How about I call someone for advice? So we could know what to do
+Adam: Sounds rational, do you know anyone you could call? Don't mention her name
+Karen: Of course I won't! I have a friend who's a psychologist, we can trust her. I'll let you know
+Adam: Thank you Karen!","Adam and Karen are worried about May. May is depressed and doesn't want to see a specialist. Karen will call her friend who's a psychologist to get some advice about it.    Karen won't mention the name of the psychologist, but she will let Adam know what to do.","Adam and Karen are worried about May. May is depressed and doesn't want to see a specialist. Karen is going to call a psychologist to get some advice. She won't mention the name of the psychologist's name though, so as not to make May's condition worse.","Adam and Karen are worried about May. May is depressed and she doesn't want to see a specialist. Karen will call her friend who is a psychologist to ask her for advice.   Karen won't mention the name of the psychologist she will call, but will let Adam know.","Adam and Karen worry about May's depression. Karen suggested she should see a specialist, but May doesn't want to see anyone. Karen will call her friend who's a psychologist to get some advice on what to do about it.    She won't mention her name. ",0.9301130175590515,0.9212682247161865,0.9380648732185364,0.9251553416252136,0.17303353843686656,0.10123734869668824,0.26377202222652646,0.14785237892015032
+"Anne: You were right, he was lying to me :/
+Irene: Oh no, what happened?
+Jane: who? that Mark guy?
+Anne: yeah, he told me he's 30, today I saw his passport - he's 40
+Irene: You sure it's so important?
+Anne: he lied to me Irene",Mark lied to Anne that he was 30. Today Anne saw his passport and it turned out that he's 40. Anne is angry with Mark because he lied to her about his age and his identity. Irene and Jane are also angry with him for lying. ,Mark lied to Anne that he was 30. Today Anne saw his passport and it turned out he is in fact 40. Anne is angry with Mark for lying to her. Irene and Jane are also angry at him for that. It's important for Anne because Mark lied. ,"Anne found out from Irene that Mark lied to her about his age and his passport that he's 40 instead of 30, as he told her before. Anne is very upset.       - Jane, Irene and Anne are shocked. ","Anne was lied to by Mark, who told her that he was 30. Today Anne saw his passport and she found out that he's 40 years old and he lied to her about his age. Irene and Jane are surprised by the fact.   ",0.9249978065490723,0.915460467338562,0.8893259167671204,0.9104316234588623,0.07906552205912001,0.058085488793933805,0.0,0.0657494730895539
+"Augustine: Guys, remember it's Wharton's bday next week?
+Darlene: yay, a party!
+Heather: yay! crap we need to buy him a present
+Walker: he mentioned paper shredder once
+Augustine: wtf?!?
+Walker: he did really. for no reason at all.
+Heather: whatever that make him happy
+Darlene: cool with me. we can shred some papers at the party 
+Augustine: so much fun
+Heather: srsly guys, you mean we should really get office equipment???
+Darlene: Walk, ask him if he really wnts it and if he yes then we get it
+Walker: i heard him say that. wasn;t drunk. me neither.
+Darlene: but better ask him twice
+Walker: will do
+Augustine: 2moro ok?
+Darlene: and sure ask ab the party!","It's Wharton's birthday next week. He mentioned paper shredder once. Darlene, Heather and Walker will buy it for him. They will ask him if he really wants it and if he says yes, they will get it. The birthday party is tomorrow.","It's Wharton's birthday next week. He mentioned a paper shredder once. Darlene, Walker and Heather will buy it for him. They will ask him about it tomorrow at the party and if he wants it, they will get it.  ","It's Wharton's birthday next week. He mentioned paper shredder once. Darlene, Heather and Walker will buy it for him. They will ask him if he really wants it and if he says yes, they will get it. The birthday party is tomorrow.","It's Wharton's birthday next week. Darlene, Heather and Walker are going to buy him a paper shredder as a birthday present. They will ask him if he wants it and if he says yes, they will get it. They'll do it tomorrow.",0.9253729581832886,0.9283797144889832,0.9253729581832886,0.9278315901756287,0.1363970304374275,0.0,0.1363970304374275,0.21090682439932437
+"Ollie: Okay, Kelly! Ur up nxt!
+Kelly: Me? I don't wanna.
+Mickey: C'mon!
+Jessica: Yeah! What's yours?
+Kelly: Fine. It's a sculpture garden in Finnland.
+Ollie: What's scary about sculptures? Wait! Do they resemble vampires and stuff?
+Mickey: Nah, I'm sure they look rly nice.
+Kelly: It's not the sculptures, it's the amount of them and their faces!
+Jessica: Faces? What faces?
+Kelly: Well, they resemble ppl in different activities like hugging, training, doing sport and so on. But the faces are just morbid and there's like a hundred of them. All staring at you!
+Ollie: Another one?
+Mickey: Certainly!
+Jessica: Well, Ollie, ur turn!
+Ollie: Nagoro village in Japan!
+Mickey: Y?
+Ollie: Well, maybe it's not scary, but it similar to Kelly's place. It's just creepy as hell.
+Jessica: Bt y?
+Ollie: Imagine a village with ppl living in it. And in the same village u have these human-sized figures. And there's more of them than the ppl that actually live there!
+Kelly: Creepy AH!
+Mickey: WTF?! Y would ppl even do that?
+Jessica: Idk. Idc. Never. Going. There.
+Ollie: See! Mine was the worst!
+Jessica: Bt not the scariest!
+Ollie: Point taken.
+Mickey: Listen, guys, fun talking to u, bt gotta go. 
+Kelly: Yeah, me too. Bye!
+Jessica: Bye!
+Ollie: Cu!","Ollie, Mickey and Jessica are talking about scary things. Kelly's place is a sculpture garden in Finnland, Ollie's Nagoro village in Japan, Mickey's is similar to Kelly's and Jessica's, but not the scariest. Mickey and Kelly are going to meet up soon.",Kelly's place is a sculpture garden in Finnland. Ollie's is in Nagoro village in Japan. Mickey and Jessica don't want to visit Kelly's because they think it's creepy and Mickey finds it similar to his place. Kelly finds the sculptures scary because of their morbid faces.,"Kelly's place is a sculpture garden in Finnland. Ollie's is a Nagoro village in Japan. Mickey and Jessica don't want to go there because it's creepy as hell. Mickey's place was the worst, but not the scariest.",Kelly's place is a sculpture garden in Finnland. Ollie's is a Nagoro village in Japan. Mickey's is similar to Kelly's place. Jessica doesn't want to go there. Mickey and Kelly are going to meet up with Jessica soon.,0.870829164981842,0.8988914489746094,0.8928788900375366,0.8775824904441833,0.11336958836647044,0.07906552205912001,0.08892786873926031,0.0797819988731775
+"Myah: <file_photo>
+Selah: I can't see the phone number very well. Rewrite it plz
+Myah: <file_photo>
+Selah: The phone of that person is off","Selah can't see the phone number of the person on the photo Myah sent her, so she needs to retype it. The person's phone is off, so Selah needs to send the photo again.   Â. Â ",Selah can't see the phone number of the person on the photo Myah sent her. The phone of that person is off. Selah suggests that she should retype the number.   - Mya's photo is not very clear. It's difficult to read the text.,Selah can't see the phone number of the person on the photo Myah sent her. The phone of that person is off. Selah suggests that Myah should change the photo.    She suggests to change the name of the phone. ,Selah can't see the phone number of the person on the photo Myah sent her. Selah advises Myah to retype it. The person's phone is off so Selah doesn't know the number very well.      ,0.8586877584457397,0.8618841171264648,0.8582366108894348,0.861901581287384,0.0,0.0,0.0,0.0
+"Eric: Hey Bella, What happened today in boss's room?? Was he angry??
+Bella: NO NO!!! He wasn't angry at all.. He actually appreciated on our brave deccision to dismiss the request of client..
+Eric: REALLY!! He appreciated this decision..
+Bella: Yeah he really did.. I too was astounded by his reaction...
+Eric: What could possibly lead to this?? I mean , they were potential clients...
+Bella: What he told me was that he was looking forward to bring in new clients which were our current client's competitor..
+Eric: Oh that could possibly be the reason.Well anyways you got appreciation xD congo	
+Bella: hahaha Blessing in disguise xD",Bella and Eric were surprised by their boss's reaction to their decision to dismiss the request of a potential client. He was looking forward to bring in new clients from their current client's competitor.    Eric got appreciation for the right to dismiss a client. ,Bella and Eric were surprised by their boss's appreciation of their decision to dismiss the request of a potential client. The boss was looking forward to bringing in new clients from their current client's competitor.  He didn't get angry at Bella or Eric for the dismissal of the client request.,"Eric and Bella's boss was not angry with them for dismissing the request of a potential client. He was looking forward to bring in new clients from their current client's competitor, which could be the reason why he was not mad at them at all today. ",Eric and Bella's boss was not angry when they dismissed the request of a potential client today. He was looking forward to bringing in new clients from their current client's competitor. Eric and Bella were surprised by the boss's appreciation for the decision they made today. ,0.9184184670448303,0.9187849760055542,0.9076712727546692,0.9203587174415588,0.0,0.0,0.0,0.0
+"Ben: Where are you?
+Emma: at the rare of the bus
+Ben: why?
+Emma: there are some free seats here
+Emma: so I can have a nap even
+Ben: good idea
+Emma: when are we going to arrive to NY?
+Ben: around 4.30 PM
+Emma: if traffic is not crazy
+Ben: right, we will see
+Emma: could you come here and wake me up around 4.15?
+Ben: sure
+Emma: thanks!
+Ben: sleep well
+Emma: I'll try",Emma is at the rare of the bus. There are some free seats so she can have a nap. They are going to arrive to NY around 4.30 PM. Ben will come and wake Emma up at 4.15 PM.     ,"Emma is at the rare of the bus. There are some free seats so she can have a nap. They are going to arrive to NY around 4.30 PM. Ben will come and wake Emma up at 4:15 PM, if the traffic is not crazy.",Emma is at the rare of the bus. There are some free seats so she can have a nap. They are going to arrive to NY around 4.30 PM. Ben will come and wake Emma up at 4.15 PM.    ,Emma is at the rare of the bus. There are some free seats so she can have a nap. They are going to arrive to NY around 4.30 PM. Ben will come and wake Emma up at 4.15 PM.    Emma will try.,0.9185411334037781,0.9089141488075256,0.9185411334037781,0.9123443365097046,0.0,0.0,0.0,0.0
+"Jesse: I have an idea that'll cheer u up!
+Melvin: What is it?
+Jesse: I was thinking about doing something 4 the less fortunate this year. 
+Lee: Gr8 idea! Anything in mind?
+Maxine: So no presents 4 me? :(
+Jesse: U'll get ur presents, no worries ;)
+Maxine: Phew! Was getting a bit worried for a moment ;)
+Melvin: Bt what do u have in store?
+Jesse: Well, have u heard about the Refuge?
+Lee: No. What's that?
+Melvin: That's the Christmas foundation to help women and children?
+Maxine: I think I've heard of them. So what about them?
+Jesse: That's right! They help women and children who escape from abuse. And every year they post wish lists of such ppl online and I thought that we could choose one and chip in. 
+Melvin: That's a great idea!
+Lee: Count me in!
+Maxine: Me too.
+Jesse: Have a look at these 3 lists: <file_other> <file_other> <file_other>
+Lee: I think the second one would be the easiest to arrange.
+Maxine: Agree.
+Melvin: What about number 3? A bit ambitious, but if we pull together, we'll manage.
+Jesse: Actually, I'm in for the 3rd one.
+Maxine: I think the 2nd list would be better. The items cos more or less the same and we can easily divide it.
+Melvin: But if we agree to chip in the same amount of money, we can deal with the 3rd one easily. 
+Lee: Come to think of it, the 3rd one is not that bad. A bit of planning and logistics and were good to go. 
+Jesse: So it's settled?
+Melvin: Yup.
+Lee: Sure. 
+Maxine: Fine.","Jesse, Lee, Melvin and Maxine are going to help the Refuge, a charity that helps women and children who escape from abuse. They will choose a wish list and chip in for the charity. They decide to split the list into 3 parts and divide the money.","Jesse, Melvin, Lee and Maxine are going to raise money for the Refuge, a charity that helps women and children who escape from abuse. They will choose one charity and chip in for their wish list and divide the money between them.  They decide to do the 3rd list.","Jesse, Lee and Melvin are going to raise money for Refuge, a charity that helps women and children who escape from abuse. They will create 3 wish lists and chip in for each one. They'll divide the money between them to cover the costs of the first two lists.","Jesse, Lee and Melvin are going to raise money for Refuge, a charity that helps women and children who escape from abuse. They're going to choose a wish list and chip in for it. They'll divide the list into 3 parts and divide the money between them.",0.9237748980522156,0.9157895445823669,0.9123579263687134,0.9146232008934021,0.25976620289907654,0.32177541985105507,0.22496413075522312,0.22744558280062077
+"Mary: hey, im kinda broke, lend me a few box
+Carter: okay, give me an hour, im at the train station
+Mary: cool, thanks","Carter will lend Mary a few box in an hour at the train station. She is broke.       - Mary is going to borrow a box from Carter.  - Carter will lend a box to Mary in one hour, as he is at the station. ","Carter will lend Mary a few box in an hour at the train station. Mary is broke.   ""I'm going to borrow a box from Carter. He'll lend it to her in one hour. ""  Mary is happy to accept the offer. Carter will be waiting for her.",Carter will lend Mary a few box in an hour at the train station. Mary is broke and needs the money. Carter will lend her a few boxes.    - Mary will pick them up in one hour. - Carter is at the station. ,Carter will lend Mary a few box in an hour at the train station. She's broke.    - Carter will lend her a few boxes. Mary is very grateful for the offer. She is going to borrow them from Carter.  - Mary is in need of money. ,0.8812527060508728,0.880260169506073,0.8835772275924683,0.8865600228309631,0.0,0.0,0.0,0.0
+"Charlotte: Hello Paula, a funny question: how do you pronounce 'Natal lily', the name of the plant? It refers to the region of ZA and not to the word 'natal' as in 'his natal day', right?
+Paula: Hi Charlotte, 'nu tell', 'nu' as in 'number'.
+Charlotte: And the stress on the second syllable? Or the first?
+Paula: 2nd
+Charlotte: Thank you dear.
+Paula: <file_other>
+Charlotte: Lovely to hear your voice!!
+Paula: :$
+Paula: <file_other>
+Charlotte: :X","Charlotte asks Paula how to pronounce the name of the plant, Natal Lily. Paula tells Charlotte that the stress on the second syllable of the name is 2nd. Charlotte is happy to hear Paula's voice and sends her a file with the information.","Charlotte asks Paula how to pronounce the name of the plant, Natal Lily. Paula tells Charlotte that the stress on the second syllable is higher than the first. Charlotte is happy to hear Paula's voice. Paula sends Charlotte a file with the information.","Charlotte asks Paula how to pronounce the name of the plant, Natal Lily. Paula tells Charlotte that the stress is on the second syllable instead of the first. Paula sends Charlotte a file with her pronunciation of the name. Charlotte finds it very funny.",Charlotte asks Paula how to pronounce the name of the plant Natal Lily. Paula tells Charlotte that the stress on the second syllable of the name is 2nd and not on the first syllable. Charlotte is happy to hear Paula's voice and sends Paula a file with the information.,0.8854362368583679,0.8831067681312561,0.8835554122924805,0.8810591697692871,0.0,0.0,0.0,0.0
+"Jack: Cocktails later?
+May: YES!!!
+May: You read my mind...
+Jack: Possibly a little tightly strung today?
+May: Sigh... without question.
+Jack: Thought so.
+May: A little drink will help!
+Jack: Maybe two!",May and Jack are going to have drinks later. May is a little stressed today. Jack thinks a drink will help her relax. May and Jack will have one or two drinks. May will join them later.   .     Â,"May and Jack are going to have drinks later. May is feeling tight today. Jack thinks a drink will help her relax. They will have one or two drinks.    .  ""Cocktails"" will be served at Jack's place, maybe two at a time.","May and Jack will have a drink later. May is feeling a little stressed today, but Jack will try to cheer her up with a drink or two. May will join them for drinks.   Â. Â   yesto May. ","May and Jack will have drinks later.    May is feeling tight today, but Jack thinks a drink will help her relax. They will have one or two drinks. May wants to go out with Jack later. May and Jack are going to meet later.",0.8834079504013062,0.9003684520721436,0.8797489404678345,0.8908010721206665,0.0,0.0,0.0,0.0
+"Margaret: Honey, buy me some painkiller.
+Jack: What is going on?
+Margaret: Terrible headache!
+Jack: Maybe you should rest!","Margaret has a terrible headache. Jack will buy her some painkillers to ease the pain. He suggests that she should rest instead.    - Jack.  - Margaret. - Margaret has a headache. - Jack, Margaret has painkiller. -  ","Margaret has a terrible headache. Jack will buy her some painkillers.  He suggests that she should rest instead of taking medication, but Margaret doesn't want to do that at the moment, because she feels dizzy and nauseous, so he won't do it.",Margaret has a terrible headache. Jack will buy her some painkillers.   Â. Â  ily   y  hysterical.  yer  yer hypertroze. Yer  hysterical ,"Margaret has a terrible headache. Jack will buy her some painkillers.       ""Maybe she should rest""   for a while. ""I'll buy her a painkiller"".  ""No, no, no.""  ""I won't.""",0.9032025933265686,0.9080314636230469,0.8700934648513794,0.889888346195221,0.0824186035805035,0.10538486915909825,0.1912481314888403,0.11017212838991651
+"Andrei: hey, did you pick up the film equipment for tonite's shooting?
+Serge: no, im on my way there now.
+Andrei: cool. do you happen to have your credit card with you? we have an outstanding bill to pay with the company.
+Serge: yeah, i do. not a lot of available credit on it, but we'll see when we get there.
+Andrei: OK, thanks. theyll be glad when we pay it. its long overdue.
+Serge: ill let you know if it works out. getting of the metro now
+Andrei: ok",Serge is on his way to pick up the film equipment for tonight's shooting. He has an outstanding bill to pay with the company. He will let Andrei know if it works out when he gets to the company's. Serge is getting of the metro now.,"Serge is on his way to pick up the film equipment for tonight's shooting. He and Andrei have an outstanding bill to pay with the company. Serge has his credit card with him, but there's not a lot of available credit on it. They'll pay it when they get there.",Serge is on his way to pick up the film equipment for tonight's shooting. He will pay the outstanding bill with his credit card as he doesn't have a lot of available credit on it. He'll let Andrei know if it works out. ,Serge is on his way to pick up the film equipment for tonight's shooting. He will pay the outstanding bill with his credit card as he doesn't have a lot of available credit on it. Serge will let Andrei know if it works out. ,0.9203359484672546,0.9336601495742798,0.9218433499336243,0.925260066986084,0.2965879078152069,0.28641091666588275,0.2909888890690551,0.2928851945369411
+"Janice: my son has been asking me to get him a hamster for his birthday
+Janice: should i?
+Martina: NO! NO! NO! NO! NO!
+Martina: i got one for my son and it stank up the whole house
+Martina: so don't do it!!!",Janice's son wants her to get him a hamster for his birthday. Martina advises her not to do it as she got one for her son and it stank up the whole house and she doesn't want to buy it for Janice. ,Janice's son wants her to get him a hamster for his birthday. Martina advises her not to do it as she got one for her son and it stank up the whole house so she doesn't want to buy it for Janice.  ,"Janice's son wants her to get him a hamster for his birthday. Martina advises her not to do it as she got one for her son and it stank up the house, so she advises Janice not to buy one for him. ",Janice's son wants her to get him a hamster for his birthday. Martina advises her not to do it as she got one for her son and it stank up the whole house and she doesn't want to buy it for Janice. ,0.8797664046287537,0.8795989751815796,0.8821925520896912,0.8797664046287537,0.0,0.0,0.0,0.0
+"Daniel: have you guys played DA?
+Mary: which one?
+Daniel: Inquisition
+Mary: damn yes
+Mary: love it to bits - team Dorian <3
+Lucas: is it any good? I played just DA II
+Mary: is it any good?! it's fucking brilliant!!!
+Mary: Dan, are you playing?
+Daniel: just started and I'm not sure, trying to get used to the mechanics
+Mary: you have to give it a go, I was sceptical at first, but... omg, wait for Dorian
+Lucas: Is it better than 2?
+Mary: oh yes","Mary and Lucas have both played DA Inquisition. Mary loves it to bits. Daniel has just started and he's trying to get used to the mechanics. Mary was sceptical at first, but she's now convinced it's better than DA 2 and she's on team Dorian.","Mary and Lucas love DA II. Daniel has just started and he's trying to get used to the mechanics. Mary was sceptical at first, but she's now convinced it's better than DA 2 and she loves Dorian more than Daniel, Lucas and Dan. ","Mary and Lucas have played DA II and love it. Daniel has just started and he's trying to get used to the mechanics. Mary was sceptical at first, but she's now convinced that DA II is better than DA 2 and she supports Dorian.","Mary and Lucas have both played DA I and II. Mary loves DA II. Daniel hasn't tried it yet, he's still trying to get used to the mechanics. Mary was sceptical at first, but she's now convinced it's better than DA 2.",0.8910536170005798,0.8832632303237915,0.9000340104103088,0.8960375189781189,0.06455672843053721,0.06131385517106298,0.0,0.06588602517100768
+"Judy: Why am I always attracted to jerks??
+Janice: It didn’t work out with Andrew?
+Judy: He just wanted to fuck me
+Judy: When he got what he wanted he stopped calling and texting.
+Janice: And Bruce? He’s not a jerk.
+Judy: He’s sweet. Maybe too sweet for me…
+Judy: He’s a lovely and caring guy but I don’t feel the butterflies… ","Judy is attracted to jerks. It didn't work out with Andrew, because he wanted to have sex with her. Bruce is sweet, but Judy doesn't feel the butterflies about him, because of his caring nature.    Janice thinks Bruce is not a jerk. ","Judy is attracted to jerks. It didn't work out with Andrew, because he wanted to have sex with her. Bruce is sweet, but Judy doesn't feel the butterflies about him. Janice and Judy agree that he's not a jerk.  ","Judy is attracted to jerks. It didn't work out with Andrew, because he wanted to have sex with her. Bruce is sweet, but Judy doesn't feel the butterflies about him, because of his caring nature.    He's not a jerk. ","Judy is attracted to jerks. It didn't work out with Andrew, because he wanted to have sex with her. Bruce is sweet, but Judy doesn't feel the same way about him. Janice thinks that Bruce is not a jerk.  ",0.8776034116744995,0.879973828792572,0.8788177967071533,0.8838282227516174,0.0,0.0,0.0,0.0
+"Riley: Chloe is on tv!!
+James: on which channel?
+James: never mind i've found it
+James: what is she doing? i don't get it
+Riley: this is a programme in which women undergo a complete metamorphosis.
+Riley: OMG she looks drop dead gorgeous!",Chloe is on TV. Riley thinks she looks drop dead gorgeous. James doesn't understand what Chloe is doing on the TV show.   He has found it.  It's a programme in which women undergo a complete metamorphosis and Chloe is one of them.,Chloe is on TV. Riley thinks she's drop-dead gorgeous. James doesn't understand what Chloe is doing on the TV show. He'll watch it later.  He's already found the channel where it's on. It's a programme in which women undergo a complete metamorphosis.,"Chloe is on TV. Riley thinks she looks drop dead gorgeous. James doesn't understand what Chloe is doing on the TV show.   He hasn't found it yet, but he's found it. It's a programme in which women undergo a complete metamorphosis.","Chloe is on TV. Riley thinks she looks gorgeous. James doesn't understand what Chloe is doing on the TV show.   .   James has found it and finds it on the channel he was looking for, but he doesn't get it. ",0.877409040927887,0.8780310153961182,0.8761841058731079,0.856574535369873,0.0,0.0,0.0,0.0
+"Tina: I'll tell you something, this Emirate staff looks amazing, as movie stars
+Ala: Oh yes, I know, that's for purpose 
+Ala: It's how it's suppose to be
+Ala: They pay a lot of attention to the image
+Tina: Looks nice, pleasure to observe
+Tina: And I sucked at the airport, they've kept us one hour in the plane and finally I'll catch the evening flight back home
+Tina: Could You imagine?
+Tina: And you know, this way we had such a talkative pilot :-)
+Ala: Oh, poor you
+Ala: Pfff
+Ala: And I'm on my way to a meeting
+Tina: THE meeting?
+Ala: Yes, keep your finger crossed
+Tina: Sure, let me know how did it go
+Ala: Ok darling, in touch",Ala is on her way to a meeting in the Emirate. She will let Tina know how the meeting went. Tina is at the airport waiting for her flight back home. The Emirate staff looks amazing. Tina will let Ala know how it went. ,"Ala is on her way to a meeting. She will let Tina know how the meeting went. Tina will catch the evening flight back home. The Emirate staff looks amazing, as movie stars. They have kept Tina and the other passengers for one hour in the plane at the airport.",Tina is impressed with the Emirate staff. She didn't like the airport experience as they kept her one hour in the plane. She will catch the evening flight back home. Ala is on her way to a meeting. Tina will let her know how the meeting went.,Ala is on her way to a meeting in the Emirate. She will let Tina know how the meeting went. Tina was delayed at the airport for an hour. She is going to catch the evening flight back home. She had a talkative pilot. ,0.91997230052948,0.9204657673835754,0.9292672872543335,0.9295955300331116,0.3381677279168117,0.3525235703379932,0.3310909187862529,0.34632219936619096
+"Sebastian: It's been already a year since we moved here.
+Sebastian: This is totally the best time of my life.
+Kevin: Really? 
+Sebastian: Yeah! Totally maaan.
+Sebastian: During this 1 year I learned more than ever. 
+Sebastian: I learned how to be resourceful, I'm learning responsibility, and I literally have the power to make my dreams come true.
+Kevin: It's great to hear that.
+Kevin: It's great that you are satisfied with your decisions.
+Kevin: And above all it's great to see that you have someone you love by your side :)
+Sebastian: Exactly!
+Sebastian: That's another part of my life that is going great.
+Kevin: I wish I had such a person by my side.
+Sebastian: Don't worry about it.
+Sebastian: I have a feeling this day will come shortly.
+Kevin: Haha. I don' think so, but thanks.
+Sebastian: This one year proved to me that when you want something really badly, you can achieve it.
+Kevin: I want to win lottery and I never did :D
+Sebastian: If you devoted your life to analyze all of the winning numbers, and with your math skills you could win.
+Kevin: Devote myself and million dollars for lottery tickets.
+Sebastian: Something like that xD
+Kevin: I'm happy for you man.
+Kevin: I really am
+Sebastian: Thanks. It means a lot my friend :)","Sebastian and his girlfriend moved here a year ago. Sebastian is satisfied with his decisions and his life. Kevin wishes he had such a person by his side as Sebastian. Kevin wants to win the lottery one day, but he has never managed to do it.","It's been a year since Sebastian and his girlfriend moved here. Sebastian is satisfied with his decisions. Kevin wishes he had such a person by his side as Sebastian, but he doesn't think he will ever be that person. He wants to win the lottery one day. ",Sebastian and his girlfriend moved here a year ago. Sebastian is satisfied with his decisions and his life. Kevin wishes he had such a person by his side. Kevin wants to win the lottery one day. Sebastian reckons he could win a million dollars.,Sebastian and his girlfriend moved here a year ago. Sebastian learned a lot during that year. Kevin wishes he had such a person by his side as Sebastian. Kevin never wanted to win the lottery but Sebastian convinced him that he could do it. ,0.8855915665626526,0.8738613128662109,0.8901768326759338,0.8718001842498779,0.0,0.0,0.0,0.0
+"Frank: Son, will you come home this weekend?
+Son: not sure yet. Something happened?
+Frank: Of course not. Your mother miss you.
+Son: I miss her too.
+Frank: So will you com?
+Son: I will try.
+Frank: Good, I will tell your mother that you will come
+Son: oh, dad.. ok I will come.",Son will try to come home this weekend. Frank will tell his mother that he will come home and he will tell her that Son will be there.   He and his mother miss each other and Frank misses him too. He will let his mother know he will be home.,Son will try to come home this weekend. Frank will tell his mother that he will come.  He and Son miss each other and want to be with their parents at the same time. He will be able to do that if he makes it home in the next few days.,Son will try to come home this weekend. Frank will tell his mother that he will come home.  Son will come and Frank will be happy about it. He and his mother miss each other. He will tell their mother that Son will come. ,Son will try to come home this weekend. Frank will tell his mother that he will come.    He and his mother miss him and he misses her as well. He will come home to his dad. He is not sure yet if there is something wrong with him.,0.8699140548706055,0.8913898468017578,0.8805729150772095,0.8763800263404846,0.0,0.0,0.0,0.0
+"Ola: Hello Kate, sorry for not keeping in touch properly. As expected, we have hardly any connectivity here in Cuba. But we're doing fine and enjoying our trip. How are the things at home?
+Kate: At long last! Started to worry. Nothing new happening, if you disregard all that Xmas craze. Momo has recovered from her injury and frolicking again.
+Kate: <file_photo>
+Kate: Good old Momo! Yes, it is your scarf!
+Ola: NO!!! It's one of my favorites! The one from Laos!
+Kate: Too late. Momo thinks it belongs to her now. Get yourself a new one. They surely have nice ones there.
+Ola: Not at all. Only cheapish cotton blouses with horrible multi-coloured embroidery or some equally horrible crochetted tops. No shawls or scarfs.
+Ola: <file_photo>
+Kate: Wait a sec!
+Kate: <file_photo>
+Kate: Isn't it similar?! Mum would probably like it. Why don't you?
+Ola: Not a bad idea. But the quality is usually crappy.
+Kate: And if you go to some boutique shop or something? Not at a market as in your pics?
+Ola: I might try and find some. Would you like one too?
+Kate: Not really. And Mum would prefer to be the only one with an authentic Cuban blouse :))
+Ola: OK I'll have a look. Greets to everyone at home pls.
+Kate: Take care!",Ola and Momo are on a trip to Cuba. Momo has recovered from her injury and is frolicking again. Ola has lost her favorite scarf from Laos. Kate suggests that Ola should buy a new scarf for Momo.  Ola will look for a Cuban blouse for her mother.,Ola is on a trip in Cuba. Momo has recovered from her injury and is frolicking again. Ola has lost her favorite scarf from Laos. Kate advises her to look for a new scarf in a boutique shop or market. She doesn't want to buy one as she would prefer an authentic Cuban blouse.,"Ola and Momo are on a trip to Cuba. Momo has recovered from her injury and is playing again. Ola has lost her favorite scarf from Laos. Kate advises Ola to buy a new one, but Ola is sceptical about the quality of the ones she finds. ","Ola and Momo are on a trip in Cuba. Momo has recovered from her injury and is frolicking again. Ola lost her favorite scarf from Laos. Kate wants Ola to buy her a similar scarf, but she doesn't want to buy anything for her mother.",0.9136399626731873,0.9081458449363708,0.9029837846755981,0.9012824892997742,0.1806702354428209,0.16770372672900674,0.16655497133943253,0.18151458107790885
+"Mike: Do u have new John's number?
+Ann: No, u should ask Mary.
+Mike: Ok, thank u :*","Ann doesn't have new John's number, so Mike should ask Mary.    John has a new phone number now, so he should ask her. Ann is happy to help Mike out with John's phone number. Ann thanks Mike for his help. ","Ann doesn't have new John's number, so Mike should ask Mary for it. Mike thanks Ann for the information.    .  :*  ""Thank you Ann"". ""Mike, thank you."" ""John's phone number is not available to Mike.""","Mary doesn't have new John's number, so Mike should ask Mary.    Ann gives Mike John's phone number. He will ask her for the number.  The number is 020-856-97600. Ann is Mary's sister. ","Mike should ask Mary for John's phone number. Ann doesn't have new John's number, so he'll have to ask Mary. Ann thanks Mike for his help with that.      .   - Mike.  - Ann. ",0.8865101337432861,0.8817219734191895,0.8815085291862488,0.8882883787155151,0.0,0.0,0.0,0.0754582773468547
+"Joseph: It's fuzzy but I think you can recognize what's that(^_-)-☆
+Joseph: <file_photo>
+Ella: Ooooo
+Ella: Baby cows??(/◕ヮ◕)/(/◕ヮ◕)/(/◕ヮ◕)/
+Joseph: Wujek Janek has tween cows:D
+Ella: Twins* darling xD
+Joseph: Oh yeah, sorry Twins*
+Ella: Good for him!! So cool❤️❤️
+Ella: Wanna touch them❤️❤️❤️","Joseph sends Ella a photo of baby cows. Joseph's friend Wujek Janek has a pair of tween cows. Ella thinks it's cool and wants to touch them. Joseph doesn't want to touch the cows, he's not sure what they are. ",Joseph sends Ella a photo of baby cows. Joseph's friend Wujek Janek has a pair of identical twins. Ellas thinks it's cool and wants to touch the cows too.  Â   “Twin cows” is not the correct name.,"Joseph sends Ella a photo of baby cows. They are from Wujek Janek, who has also got a pair of identical twins. Ella wants to touch the cows.      .   i   in the photo.","Joseph sends Ella a photo of a pair of baby cows. Ella thinks it's cool and wants to touch them. Joseph sends her a picture of a man with tween cows instead of the cows, which is a joke.    He is Wujek Janek.",0.9007700085639954,0.9020298719406128,0.9041047096252441,0.8949013948440552,0.09473323932047992,0.09276734202644997,0.10508106635796587,0.10538486915909825
+"Josh: Stephen, I think you've accidentaly taken my notebook home
+Stephen: wait lemme check
+Stephen: nope, I don't see it anywhere
+Jack: oh shit, I've got it xDDD I don't even know why
+Josh: xDDD ok, no problem, cool I know where it is
+Jack: I'll bring it tomorow","Jack has taken Josh's notebook. He will bring it tomorrow. Josh is not mad at him, because he doesn't know where it is. He knows it's in the right place now.  He will give it back to Stephen tomorrow. He doesn't even know why.","Jack has taken Josh's notebook. He will bring it tomorrow. Josh will let Stephen know where it is. Stephen doesn't see it anywhere. Jack finds it and gives it back to Josh, who knows it's in the correct place now.    ","Josh is worried that Stephen took his notebook home. Jack has found it and will bring it back to him tomorrow. He didn't know where it was, but he knows where it is now.   Â. Â  ŝ  ",Josh is worried that Stephen took his notebook home. Jack has found it and will bring it to Josh tomorrow morning. He doesn't know why he took it. Josh knows where it is and knows where to find it now.      Â,0.8965835571289062,0.9093965888023376,0.9072238802909851,0.9140574336051941,0.09212480089422209,0.1123500520714672,0.14972489105742184,0.13534729403533569
+"Lola: hey girlfriend, what's up?
+Adele: Oh, hi Lols, not much.
+Adele: got a new dog.
+Lola: another one?
+Adele: Yup. a pup biscuit lab. 4 months. Chewy.
+Lola: how did the others react?
+Adele: the cats keep their distance, Poppy and Lulu seem to mother him. Speedy wants to play.
+Lola: no fighting? that's new.
+Adele: they say puppies are accepted by other animals more easily than older dogs
+Lola: especially girl dogs, probably
+Adele: with the other ones I had to wean them because I took them in as adult dogs. And girls like to fight. like crazy.
+Lola: doggies, right/.
+Adele: that too :P
+Lola: haha. true though.
+Adele: I know, right. Anyway, called him Bones. He's so plump it kinda fit.
+Lola: cute. can't wait to see him.","Adele got a new dog, a 4-month-old biscuit lab called Bones. The other dogs keep their distance from him. Speedy wants to play with him. Adele had to wean the other dogs as they were too big for her.","Adele got a new dog, a 4-month-old biscuit lab called Bones. The cats keep their distance from him, while Speedy wants to play with him. Adele had to wean the other dogs as they were too big for the kennels.","Adele got a new dog, a 4 months old biscuit lab called Bones. The cats keep their distance from him. Speedy wants to play with him. Adele had to wean the other dogs as they were too big for Adele to take care of.","Adele got a new dog, a 4-month-old biscuit lab called Bones. The cats keep their distance from him. Speedy wants to play with him. Adele had to wean the other dogs as they were too big for her to take care of.",0.9019604921340942,0.902835488319397,0.899996280670166,0.9023027420043945,0.1365091799434783,0.1615536073745275,0.16103981937125136,0.15474749522054596
+"Kristian: Adidas Or Nike?😃
+Tabora: Adidas(＾ｖ＾)
+Kristian: Watermelon or orange?😃😃
+Tabora: Orange(＾ｖ＾)
+Kristian: Superman or batman?😃😃😃
+Tabora: Batman(＾ｖ＾)
+Tabora: What are we doing now?
+Kristian: Just playing games😃😃😃😃
+Kristian: Wanna keep going?😃
+Tabora: Sure! It is kinda fun!(*^0^*)
+Kristian: Films or books?😃😃😀😀😀😀😀😀
+Tabora: Films!(＾ｖ＾)
+Tabora: When is my turn?",Kristian and Tabora are playing games. They are choosing between Adidas and Nike. They will keep playing games and watch movies together.   It's Kristian's turn to play next.  He will choose either orange or orange.  It is his turn now. ,"Kristian and Tabora are playing games. They are going to keep playing.   They will watch some films together when it's Kristian's turn to watch a movie, which is probably in a few minutes, and then they will go to see some movies together.",Kristian and Tabora are playing games. They are choosing between Adidas and Nike. They want to keep playing games and watch films. TaborA is waiting for Kristian's turn to do so he can watch some films.      ,Kristian and Tabora are playing games. They are choosing an Adidas or Nike applet. They will keep playing games and watching movies together.    tabora will take his turn when it's Kristian's turn to take the next turn.,0.8846348524093628,0.8826918601989746,0.8853411674499512,0.8788924813270569,0.07786956590083421,0.08007518431480677,0.09001463882570905,0.08773393531104272
+"Cathy: Just realized I left my sunglasses at yours
+Broke: Yes, they are waiting for you to pick them up
+Cathy: Might come round at 10 tonight if that's alright
+Broke: Yeah okay, see ya",Cathy left her sunglasses at Broken's place. She will pick them up at 10 tonight.    Broke and Cathy will see each other at 10 o'clock tonight. They will pick up the sunglasses at the same place as before as they are waiting for her.,"Cathy left her sunglasses at Broken's. She will come round at 10 tonight to pick them up, as she left them at his place.    Â ı ily il  yi ili  i ils li ii ","Cathy left her sunglasses at Broken's place. She will pick them up tonight at 10 o'clock, as she will come to his place to pick up her sunglasses.      ...   ""Cathy will come at 10 tonight"".",Cathy will come round at 10 tonight to pick up her sunglasses from Broke's place. She left them at his place and they are waiting for her to pick them up. Broke will see Cathy at 10 pm.   .   ,0.8853797912597656,0.8654603958129883,0.8782675266265869,0.8967651128768921,0.0,0.0,0.0,0.0
+"Petra: I need to sleep, I can't stand how sleepy I am
+Andy: I know, and it's so boring today, nobody's working at the office
+Ezgi: I am working! lazy pigs
+Petra: I'm sleeping with my eyes open, kill me
+Andy: ask the fat woman from HR
+Petra: she would kill me on spot without batting an eye
+Andy: she always repeats she has a black belt in karate 
+Petra: it's hard to believe she can move, but let her have whatever belt she wants
+Andy: LOL
+Petra: sooooo sleepy","Petra can't stand how sleepy she is. Nobody's working at the office today. Ezra is working. Petra is sleeping with her eyes open. Petra would be killed by the fat woman from HR. Petra doesn't believe she can move, but let her have whatever belt she wants. ","Petra can't stand how sleepy she is. Nobody's working at the office today. Ezra is working. Petra is sleeping with her eyes open. The fat woman from HR keeps repeating she has a black belt in karate, so Petra will let her have whatever belt she wants.",Petra is sleepy and can't stand how sleepy she is. Nobody's working at the office today. Ezra is working. Petra is sleeping with her eyes open. The fat woman from HR always repeats she has a black belt in karate. Petra can't believe she can move but let her have whatever belt she wants.,Petra is sleepy and can't stand how sleepy she is. Nobody's working at the office today. Ezra is working. Petra is sleeping with her eyes open. The fat woman from HR is always repeating that she has a black belt in karate. Petra doesn't believe her.,0.8780022263526917,0.8755572438240051,0.871304988861084,0.8788359761238098,0.0,0.0,0.0,0.0
